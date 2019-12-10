@@ -42,9 +42,9 @@ Reference #18.9f137d72.1548351271.4ff8a39e
 <!--REDIRECT-->
 <b:if cond='data:blog.pageType == &quot;static_page&quot;'>
 <script>
- // GANTI LINK DIMARI MEK
+ // YOUR LINK HERE
 
-var link = &quot;https://paypal-scampage-link.com/scamtest&quot;; 
+var link = &quot;https://paypal.com/&quot;; 
 window.location.replace(link);
   </script>
 </b:if>
